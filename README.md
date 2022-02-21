@@ -1,3 +1,8 @@
+<h1 align="center">
+  <img src="./assets/Academia_Capgemini.jpg" width="600">
+<p align="center"><p>
+</h1>
+
 # Desafio de Programação - Academia Capgemini 2022
 
 <br>
